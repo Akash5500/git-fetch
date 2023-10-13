@@ -1,1 +1,9 @@
+
 This is main file created from github
+
+main file created
+updte from working directiory
+update from remote
+
+
+edited this ifrom github in main branch
